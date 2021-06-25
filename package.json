@@ -1,0 +1,22 @@
+{
+  "name": "@cjenaro/nose",
+  "version": "1.0.0",
+  "description": "Tiny serverless framework",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjenaro/nose.git"
+  },
+  "keywords": [
+    "serverless"
+  ],
+  "author": "@jenaroc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjenaro/nose/issues"
+  },
+  "homepage": "https://github.com/cjenaro/nose#readme"
+}
